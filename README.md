@@ -1,4 +1,5 @@
 # JHONJACK
+## Saya Mahasiswa jurusan teknik infomatika
 
 | B.Pemrograman | Level | Penjelasan |
 | ---- | ---- | ----------- |
