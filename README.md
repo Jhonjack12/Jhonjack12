@@ -1,7 +1,7 @@
 # JHONJACK
 ## I'm an informatics engineering student, I want to understand more about what web programming is.
 
-| B.Pemrograman | Level | Penjelasan |
+| programming language | Level | Description |
 | ---- | ---- | ----------- |
-| `PHP` | 0.00% | Tahap Belejar |
-| `JAVA` | 0.00% | Tahap Belejar |
+| `PHP` | 0.00% | learning stage |
+| `JAVA` | 0.00% | learning stage |
