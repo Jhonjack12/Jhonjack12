@@ -1,5 +1,5 @@
 # JHONJACK
-## Saya Mahasiswa jurusan teknik infomatika
+## I'm an informatics engineering student, I want to understand more about what web programming is.
 
 | B.Pemrograman | Level | Penjelasan |
 | ---- | ---- | ----------- |
